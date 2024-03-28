@@ -55,7 +55,7 @@ To contribute to this project:
 6. Open a pull request.
 
 ## License
-Specify the license under which this project is available, such as MIT, GPL, etc.
+MIT
 
 ## Contact
 Contact me via linkedin (https://www.linkedin.com/in/uw-datascientist/)
