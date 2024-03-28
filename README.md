@@ -35,6 +35,12 @@ This Java-based project offers a robust solution for managing and analyzing glob
 - `city_temperature.csv`: The CSV file containing weather data (ensure this file is in the same directory as the executable code).
 - UML Diagrams (`proj02.object.object.violet.html` and `proj02.class.class.violet.html`): Provide a visual overview of the project's structure.
 
+## Diagrams Screenshots
+![Class UML Diagram](https://github.com/haochenmiao/weather-temperature-java-analysis/blob/main/img/class_uml_diagram.png)
+
+![Object UML Diagram](https://github.com/haochenmiao/weather-temperature-java-analysis/blob/main/img/object_uml_diagram.png)
+
+
 ## Dependencies
 - Java Development Kit (JDK) 11 or newer.
 - JUnit (for running unit tests in `GlobalWeatherManagerTest.java`).
